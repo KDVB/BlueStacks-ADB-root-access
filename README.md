@@ -1,4 +1,4 @@
-# BlueStacks ADB Vulnerability (Bluestacks root access with adb)
+# BlueStacks ADB Vulnerability (Bluestacks root access via adb)
 ### Disclaimer
 For informational purposes only. The author does not call for further actions. Created to warn users who use this product
 
